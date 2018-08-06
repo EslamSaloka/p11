@@ -1,0 +1,22 @@
+{
+    "name": "eslam/paytabs",
+    "description": "larvel Paytabs ",
+    "keywords":["Laravel","paytabs"],
+    "license": "MIT",
+    "version":"1.0",
+    "authors": [
+        {
+            "name": "Eslam mohsen",
+            "email": "eslammohsenhandousa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "eslam\\paytabs\\":"src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
